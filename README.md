@@ -2,6 +2,7 @@
 
 def display_menu():
     print("Contact Book Menu:")
+    
     print("1. Add Contact")
     print("2. View Contact")
     print("3. Edit Contact")
